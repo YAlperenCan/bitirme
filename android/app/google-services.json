@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728034468987",
+    "project_id": "keiyinci-a38a4",
+    "storage_bucket": "keiyinci-a38a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728034468987:android:bbaaa32330753ca1c22ede",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6AY9C9fZur4o8zu8p7NGODGWvlRbCAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
